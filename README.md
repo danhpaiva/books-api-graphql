@@ -1,7 +1,7 @@
 <h1 align="center"> 🖳 BooksApi GraphQL 🖳</h1>
 
 <p align="center">
-    <img src="https://github.com/danhpaiva/blazor-viacep/blob/main/screen/image.png?raw=true" width="600" alt="BooksApi GraphQL">
+    <img src="https://github.com/danhpaiva/books-api-graphql/blob/documentacao/screen/image.png?raw=true" width="600" alt="BooksApi GraphQL">
 </p>
 
 <p align="center">
@@ -81,4 +81,4 @@ Developed by <a href="https://www.linkedin.com/in/danhpaiva/" target="_blank">Da
 <h2 id=licence>🆓 Licença</h2>
 
 Este projeto está sob a licença
-<a href="https://github.com/danhpaiva/blazor-viacep/blob/main/LICENSE" target="_blank">MIT</a>
+<a href="https://github.com/danhpaiva/books-api-graphql/blob/documentacao/LICENSE" target="_blank">MIT</a>
