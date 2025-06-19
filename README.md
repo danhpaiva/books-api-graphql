@@ -44,6 +44,28 @@ Clique em Browse Schema, Operations e cole esse modelo de retorno de dados:
 }
 ~~~
 
+Voce recebera um json semelhante a este:
+
+~~~
+{
+  "data": {
+    "books": [
+      {
+        "id": "3cbb8c83-1400-4166-97e4-93284010ea8e",
+        "title": "Code Clean",
+        "author": "Robert C. Martin"
+      },
+      {
+        "id": "048cfb4c-d530-4bc9-a010-1af5c7d97562",
+        "title": "Domain-Driven Design",
+        "author": "Eric Evans"
+      }
+    ]
+  }
+}
+~~~
+
+
 <h2 id=technology>🧰 Tecnologias</h2>
 
 As seguintes tecnologias foram utilizadas neste projeto:
